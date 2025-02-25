@@ -1,0 +1,14 @@
+.site{background-color: green; height: 900pt; width:  800px; }
+.title{background-color: green;height: 10pt; width: 800px;}
+.cabeçalho{background: white; height: 140pt; width: 0 auto; margin: 20px; }
+.cabeçalho h1{  align :left; }
+.cabeçalho h2{ align: left; margin-top:5pt; }
+.cabeçalho img{ float: right; width: 200px; height: 155pt; }
+.artigos{ background:red; height:25pt; width:800px; }
+.artigos p{color: white;}
+.corpo{background: green; height: 650pt; width: 580px; float: left;}
+.corpo img{margin-left: 20px; margin-right: 20px; border: 10px;}
+.sidebar{ background: white;  height:650pt; width:200px; margin-top:0pt; float:right; margin-right:20px; }
+.fanda{background: blue;  height:400pt; width:400px; margin-top:150pt; float:center; margin:35px; }
+.rodape{background: black; height: 70pt; width: 800px; margin-top: 650pt;}
+.rodape p1{text-align: center; color: white;}
